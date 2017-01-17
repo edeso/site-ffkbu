@@ -14,7 +14,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-config-mode-mesh-vpn \
 	gluon-ebtables-filter-multicast \
 	gluon-ebtables-filter-ra-dhcp \
-	gluon-luci-private-wifi \
 	gluon-neighbour-info \
 	gluon-luci-admin \
 	gluon-luci-autoupdater \
@@ -27,7 +26,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-status-page \
 	haveged \
 	iptables \
-	iwinfo 
+	iwinfo
 
 # basic support for USB stack
 USB_PACKAGES_BASIC := \
