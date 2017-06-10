@@ -20,7 +20,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-web-mesh-vpn-fastd \
 	gluon-web-network \
 	gluon-web-wifi-config \
-	gluon-mesh-vpn-fastd \
 	gluon-radvd \
 	gluon-setup-mode \
 	gluon-status-page \
