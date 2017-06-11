@@ -3,6 +3,7 @@
 #		The gluon-mesh-batman-adv-* package must come first because of the dependency resolution
 
 GLUON_SITE_PACKAGES := \
+gluon-alfred \
 gluon-autoupdater \
 gluon-config-mode-autoupdater \
 gluon-config-mode-contact-info \
@@ -25,7 +26,6 @@ gluon-web-mesh-vpn-fastd \
 gluon-web-network \
 gluon-web-wifi-config \
 haveged \
-iptables \
 iwinfo
 
 # basic support for USB stack
